@@ -1,0 +1,5050 @@
+:root {
+	--web-view-ids: Mobile-_BP580__4,Laptop-SMALL-_BP1280_-_3,Desktop-MEDIUM-_BP1440_-_2,Desktop-LARGE-_BP1920_-_1;
+	--web-view-name: Desktop-LARGE- BP1920 - 1;
+	--web-view-id: Desktop-LARGE-_BP1920_-_1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: false;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: true;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#Mobile-_BP580__4,
+#Laptop-SMALL-_BP1280_-_3,
+#Desktop-MEDIUM-_BP1440_-_2,
+#Desktop-LARGE-_BP1920_-_1 {
+	display: none;
+}
+@media (min-width: 0px) and (max-width: 1279px) {
+	.mediaViewInfo {
+		--web-view-name: Mobile- BP580 – 4;
+		--web-view-id: Mobile-_BP580__4;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Mobile-_BP580__4 {
+		position: absolute;
+		display: block;
+		width: 580px;
+		height: 7916px;
+		background: linear-gradient(180deg, rgba(49,103,188,1) 0%, rgba(13,32,96,1) 100%);
+		overflow: hidden;
+		--web-view-name: Mobile- BP580 – 4;
+		--web-view-id: Mobile-_BP580__4;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#sbot-social-butbar {
+		position: absolute;
+		width: 306.407px;
+		height: 54px;
+		left: 206.797px;
+		top: 7601.338px;
+		display: none;
+		overflow: visible;
+	}
+	#SBOTBUT5-UTUBE {
+		position: absolute;
+		width: 46.419px;
+		height: 33.089px;
+		left: 259.988px;
+		top: 9.433px;
+		overflow: visible;
+	}
+	#SMBOTBUT5-ICON-UTUBE {
+		fill: rgba(255,255,255,1);
+	}
+	.SMBOTBUT5-ICON-UTUBE {
+		overflow: visible;
+		position: absolute;
+		width: 46.419px;
+		height: 33.089px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBOTBUT3-TWITTER {
+		position: absolute;
+		width: 36.467px;
+		height: 29.777px;
+		left: 126.324px;
+		top: 11.347px;
+		overflow: visible;
+	}
+	#SMBOTBUT3-ICON-TWITTER {
+		fill: rgba(255,255,255,1);
+	}
+	.SMBOTBUT3-ICON-TWITTER {
+		overflow: visible;
+		position: absolute;
+		width: 36.467px;
+		height: 29.777px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBOTBUT2-WHATSAPP {
+		position: absolute;
+		width: 39.784px;
+		height: 39.709px;
+		left: 63.191px;
+		top: 6.731px;
+		overflow: visible;
+	}
+	#SMBOTBUT2-ICOON-WHATSAPP {
+		fill: rgba(255,255,255,1);
+	}
+	.SMBOTBUT2-ICOON-WHATSAPP {
+		overflow: visible;
+		position: absolute;
+		width: 39.784px;
+		height: 39.709px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBOTBUT1 {
+		position: absolute;
+		width: 34.814px;
+		height: 34.743px;
+		left: 0px;
+		top: 6.22px;
+		overflow: visible;
+	}
+	#SMBOTBUT1-ICON-FB {
+		fill: rgba(255,255,255,1);
+	}
+	.SMBOTBUT1-ICON-FB {
+		overflow: visible;
+		position: absolute;
+		width: 34.814px;
+		height: 34.743px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBOTBUT4-INSTAG {
+		position: absolute;
+		width: 68px;
+		height: 54px;
+		left: 171.539px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SMBOT4-BACK {
+		fill: transparent;
+	}
+	.SMBOT4-BACK {
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		height: 54px;
+		left: 0px;
+		top: 0px;
+	}
+	#SMBOTBUT4-ICON-INSTAG {
+		position: absolute;
+		width: 37px;
+		height: 38px;
+		left: 18px;
+		top: 7.479px;
+		overflow: visible;
+	}
+	#SMBOT4-ICON4 {
+		fill: transparent;
+	}
+	.SMBOT4-ICON4 {
+		position: absolute;
+		overflow: visible;
+		width: 36px;
+		height: 37px;
+		left: 18px;
+		top: 7px;
+	}
+	#theo-obsl-webxd {
+		position: absolute;
+		width: 580.001px;
+		height: 7615.457px;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 0px;
+		overflow: visible;
+	}
+	#wavy1 {
+		position: absolute;
+		width: 869.869px;
+		height: 2010.604px;
+		left: -99.959px;
+		top: 6854.413px;
+		display: none;
+		overflow: visible;
+	}
+	#wavy1_z {
+		opacity: 0.644;
+		fill: rgba(0,0,0,0);
+		stroke: rgba(236,241,252,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-dasharray: 2 8;
+		stroke-dashoffset: 0;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.wavy1_z {
+		overflow: visible;
+		position: absolute;
+		width: 734.647px;
+		height: 1964.143px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,67.611,23.2309) rotate(4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#wavy1_ {
+		position: absolute;
+		width: 1008.714px;
+		height: 2370.306px;
+		left: -194.105px;
+		top: 23.508px;
+		display: none;
+		overflow: visible;
+	}
+	#wavy1_ba {
+		opacity: 0.644;
+		fill: rgba(0,0,0,0);
+		stroke: rgba(236,241,252,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-dasharray: 2 8;
+		stroke-dashoffset: 0;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.wavy1_ba {
+		overflow: visible;
+		position: absolute;
+		width: 811.769px;
+		height: 2319.762px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,98.4436,25.3227) rotate(4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#BODY {
+		position: absolute;
+		width: 527.999px;
+		height: 6738.457px;
+		left: 21.5px;
+		top: 877px;
+		overflow: visible;
+	}
+	#SM_BENJBUTTON_BAR {
+		position: absolute;
+		width: 527.648px;
+		height: 465.001px;
+		left: 0px;
+		top: 6273.456px;
+		overflow: visible;
+	}
+	#SMBUT5-UTUBE {
+		position: absolute;
+		width: 526.962px;
+		height: 93px;
+		left: 0px;
+		top: 372.001px;
+		overflow: visible;
+	}
+	#SM5-BUTBACK5 {
+		opacity: 0.329;
+		fill: transparent;
+	}
+	.SM5-BUTBACK5 {
+		position: absolute;
+		overflow: visible;
+		width: 526.962px;
+		height: 93px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM5-TXT-UTUBE {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-TXT-UTUBE {
+		overflow: visible;
+		position: absolute;
+		width: 103.781px;
+		height: 30.227px;
+		left: 251.396px;
+		top: 31.387px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM5-ICON5 {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-ICON5 {
+		overflow: visible;
+		position: absolute;
+		width: 36.689px;
+		height: 26.125px;
+		left: 143.193px;
+		top: 31.285px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT4-INSTAG {
+		position: absolute;
+		width: 526.962px;
+		height: 91px;
+		left: 0px;
+		top: 281.001px;
+		overflow: visible;
+	}
+	#SM4-BUTBACK4 {
+		opacity: 0.329;
+		fill: transparent;
+	}
+	.SM4-BUTBACK4 {
+		position: absolute;
+		overflow: visible;
+		width: 526.962px;
+		height: 91px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM4-TXT-INSTAG {
+		fill: rgba(255,255,255,1);
+	}
+	.SM4-TXT-INSTAG {
+		overflow: visible;
+		position: absolute;
+		width: 80.387px;
+		height: 30.227px;
+		left: 279.208px;
+		top: 33.544px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM4-ICON4 {
+		position: absolute;
+		width: 29px;
+		height: 30px;
+		left: 149.548px;
+		top: 34px;
+		overflow: visible;
+	}
+	#SMBUT3-TWITTER {
+		position: absolute;
+		width: 526.962px;
+		height: 92px;
+		left: 0px;
+		top: 190px;
+		overflow: visible;
+	}
+	#SM3-BUTBACK3 {
+		opacity: 0.329;
+		fill: transparent;
+	}
+	.SM3-BUTBACK3 {
+		position: absolute;
+		overflow: visible;
+		width: 526.962px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM3-TXT-TWITTER {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-TXT-TWITTER {
+		overflow: visible;
+		position: absolute;
+		width: 78.288px;
+		height: 30.09px;
+		left: 283.739px;
+		top: 32.514px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM3-ICON3 {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-ICON3 {
+		overflow: visible;
+		position: absolute;
+		width: 28.823px;
+		height: 23.51px;
+		left: 149.531px;
+		top: 34.245px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT2-WHATSAPP {
+		position: absolute;
+		width: 527.517px;
+		height: 108.771px;
+		left: 0.131px;
+		top: 87.074px;
+		overflow: visible;
+	}
+	#SM2-BUTBACK2 {
+		opacity: 0.329;
+		fill: transparent;
+	}
+	.SM2-BUTBACK2 {
+		overflow: visible;
+		position: absolute;
+		width: 525.858px;
+		height: 99.609px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,0.8292,4.5812) rotate(-1deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#SM2-TXT-WHATSAPP {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-TXT-WHATSAPP {
+		overflow: visible;
+		position: absolute;
+		width: 76.894px;
+		height: 30.227px;
+		left: 283.098px;
+		top: 41.698px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM2-ICON2 {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-ICON2 {
+		overflow: visible;
+		position: absolute;
+		width: 31.445px;
+		height: 31.353px;
+		left: 146.59px;
+		top: 36.75px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT1-FB {
+		position: absolute;
+		width: 526.962px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM1-BUTBACK {
+		opacity: 0.329;
+		fill: transparent;
+	}
+	.SM1-BUTBACK {
+		mix-blend-mode: screen;
+		position: absolute;
+		overflow: visible;
+		width: 526.962px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM1-ICON1 {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-ICON1 {
+		overflow: visible;
+		position: absolute;
+		width: 27.517px;
+		height: 27.431px;
+		left: 152.577px;
+		top: 32.847px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM1-TXT-FB {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-TXT-FB {
+		overflow: visible;
+		position: absolute;
+		width: 82.493px;
+		height: 30.227px;
+		left: 284.398px;
+		top: 33.742px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#BODYTXT6-Whatever_their_secret {
+		position: absolute;
+		width: 517.999px;
+		height: 486.913px;
+		left: 5px;
+		top: 4904.913px;
+		overflow: visible;
+	}
+	#BODYTXT6-Whatever_their_secret_bp {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 518.999px;
+		height: 486.9130859375px;
+		line-height: 48.380950927734375px;
+		margin-top: -14.690475463867188px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#BODYTXT5-But_what_qualities_be {
+		position: absolute;
+		width: 499.397px;
+		height: 193.454px;
+		left: 10.602px;
+		top: 3817.059px;
+		overflow: visible;
+	}
+	#BODYTXT5-But_what_qualities_be_br {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 500.397px;
+		height: 193.4541015625px;
+		line-height: 48.380950927734375px;
+		margin-top: -14.690475463867188px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA4-VDEOBUTVIEW {
+		position: absolute;
+		width: 513.93px;
+		height: 297.51px;
+		left: 11.5px;
+		top: 3497.059px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2 {
+		position: absolute;
+		width: 513.93px;
+		height: 297.51px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2_bu {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 513,93;
+		height: 297,51;
+		left: 0px;
+		top: 0px;
+		overflow: auto;
+	}
+	#GBUTGALLERIA-PREVIEW {
+		position: absolute;
+		width: 859.066px;
+		height: 513.622px;
+		left: -78.16px;
+		top: -537.057px;
+		display: none;
+		overflow: visible;
+	}
+	#GBUT-VDEO3 {
+		position: absolute;
+		width: 344.766px;
+		height: 327.535px;
+		left: 58.246px;
+		top: 183px;
+		overflow: visible;
+	}
+	#videotype {
+		position: absolute;
+		width: 344.766px;
+		height: 87.452px;
+		left: 0px;
+		top: 240.083px;
+		overflow: visible;
+	}
+	#Rectangle_7 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 344.766px;
+		height: 31.165px;
+		left: 0px;
+		top: 0px;
+	}
+	#Soundtrack_Obsession {
+		position: absolute;
+		width: 228px;
+		height: 24px;
+		left: 13.121px;
+		top: 35px;
+		overflow: visible;
+	}
+	#Soundtrack_Obsession_b {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 229px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#OBSESSIONLIVE_band_VIDEO1 {
+		position: absolute;
+		width: 280px;
+		height: 20px;
+		left: 13.121px;
+		top: 6.299px;
+		overflow: visible;
+	}
+	#OBSESSIONLIVE_BAND_VIDEO3 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 281px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(39,22,80,1);
+		letter-spacing: 0.22px;
+	}
+	#by_Obsessionliveoriginal {
+		position: absolute;
+		width: 239px;
+		height: 21px;
+		left: 13.121px;
+		top: 66.452px;
+		overflow: visible;
+	}
+	#by_Obsessionliveoriginal_b {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 240px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#vdeoimage3 {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 320;
+		height: 213;
+		left: 9px;
+		top: 0px;
+		overflow: visible;
+	}
+	#linescrub {
+		fill: rgba(224,174,9,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.linescrub {
+		position: absolute;
+		overflow: visible;
+		width: 324.314px;
+		height: 12.661px;
+		left: 6.531px;
+		top: 220.605px;
+	}
+	#play {
+		opacity: 0.906;
+		position: absolute;
+		width: 127.583px;
+		height: 127.583px;
+		left: 119.792px;
+		top: 43.352px;
+		overflow: visible;
+	}
+	#miniplaybox1 {
+		position: absolute;
+		width: 102.261px;
+		height: 39.931px;
+		left: 17.531px;
+		top: 149.509px;
+		overflow: visible;
+	}
+	#pbox-bot {
+		fill: rgba(224,174,9,1);
+	}
+	.pbox-bot {
+		position: absolute;
+		overflow: visible;
+		width: 102.262px;
+		height: 36.035px;
+		left: 0px;
+		top: 1.948px;
+	}
+	#play-icon-bit {
+		position: absolute;
+		width: 22.4px;
+		height: 22.4px;
+		left: 4.869px;
+		top: 8.766px;
+		overflow: visible;
+	}
+	#pbox-top {
+		fill: rgba(39,22,80,1);
+	}
+	.pbox-top {
+		position: absolute;
+		overflow: visible;
+		width: 67.2px;
+		height: 39.931px;
+		left: 32.139px;
+		top: 0px;
+	}
+	#n_51 {
+		left: 46.022px;
+		top: 10.385px;
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#GBUT-VDEO2 {
+		position: absolute;
+		width: 344.787px;
+		height: 330.334px;
+		left: 58.234px;
+		top: 183px;
+		overflow: visible;
+	}
+	#videotype_ce {
+		position: absolute;
+		width: 344.787px;
+		height: 90.586px;
+		left: 0px;
+		top: 239.748px;
+		overflow: visible;
+	}
+	#Rectangle_7_cf {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7_cf {
+		position: absolute;
+		overflow: visible;
+		width: 344.787px;
+		height: 31.121px;
+		left: 0px;
+		top: 0px;
+	}
+	#Soundtrack_Obsession_cg {
+		position: absolute;
+		width: 298px;
+		height: 25px;
+		left: 12.285px;
+		top: 39.311px;
+		overflow: visible;
+	}
+	#Soundtrack_Is_This_Love_Mix {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		white-space: nowrap;
+		line-height: 26px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#OBSESSIONLIVE_band_VIDEO1_ci {
+		position: absolute;
+		width: 294px;
+		height: 21px;
+		left: 13.103px;
+		top: 6.525px;
+		overflow: visible;
+	}
+	#OBSESSIONLIVE_BAND_VIDEO2 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 295px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(39,22,80,1);
+		letter-spacing: 0.22px;
+	}
+	#by_Obsessionliveoriginal_ck {
+		position: absolute;
+		width: 198px;
+		height: 21px;
+		left: 14.742px;
+		top: 69.586px;
+		overflow: visible;
+	}
+	#by_Bob_Marleycover {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 199px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#vdeoimage2 {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 320;
+		height: 213;
+		left: 12.5px;
+		top: 0px;
+		overflow: visible;
+	}
+	#linescrub_cn {
+		fill: rgba(224,174,9,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.linescrub_cn {
+		position: absolute;
+		overflow: visible;
+		width: 324.313px;
+		height: 12.285px;
+		left: 10.198px;
+		top: 220.911px;
+	}
+	#play_co {
+		opacity: 0.906;
+		position: absolute;
+		width: 127.76px;
+		height: 127.759px;
+		left: 119.57px;
+		top: 43.194px;
+		overflow: visible;
+	}
+	#miniplaybox1_cp {
+		position: absolute;
+		width: 102.371px;
+		height: 39.311px;
+		left: 17.198px;
+		top: 149.661px;
+		overflow: visible;
+	}
+	#pbox-bot_cq {
+		fill: rgba(224,174,9,1);
+	}
+	.pbox-bot_cq {
+		position: absolute;
+		overflow: visible;
+		width: 102.371px;
+		height: 36.035px;
+		left: 0px;
+		top: 1.638px;
+	}
+	#play-icon-bit_cr {
+		position: absolute;
+		width: 22.932px;
+		height: 22.931px;
+		left: 4.914px;
+		top: 8.189px;
+		overflow: visible;
+	}
+	#pbox-top_cs {
+		fill: rgba(39,22,80,1);
+	}
+	.pbox-top_cs {
+		position: absolute;
+		overflow: visible;
+		width: 66.337px;
+		height: 39.311px;
+		left: 32.759px;
+		top: 0px;
+	}
+	#n_57 {
+		left: 45.453px;
+		top: 10.237px;
+		position: absolute;
+		overflow: visible;
+		width: 42px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#GBUT-VDEO1 {
+		position: absolute;
+		width: 342px;
+		height: 330.622px;
+		left: 59.854px;
+		top: 183px;
+		overflow: visible;
+	}
+	#videotype_cv {
+		position: absolute;
+		width: 342px;
+		height: 91.472px;
+		left: 0px;
+		top: 239.15px;
+		overflow: visible;
+	}
+	#Rectangle_7_cw {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7_cw {
+		position: absolute;
+		overflow: visible;
+		width: 342px;
+		height: 31px;
+		left: 0px;
+		top: 0px;
+	}
+	#Soundtrack_Obsession_cx {
+		position: absolute;
+		width: 231px;
+		height: 24px;
+		left: 9.761px;
+		top: 36.309px;
+		overflow: visible;
+	}
+	#Soundtrack_Honey_Bun {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 232px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#OBSESSIONLIVE_band_VIDEO1_cz {
+		position: absolute;
+		width: 294px;
+		height: 21px;
+		left: 13.014px;
+		top: 6.772px;
+		overflow: visible;
+	}
+	#OBSESSIONLIVE_BAND_VIDEO1 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 295px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(39,22,80,1);
+		letter-spacing: 0.22px;
+	}
+	#by_Obsessionliveoriginal_c {
+		position: absolute;
+		width: 239px;
+		height: 21px;
+		left: 9.761px;
+		top: 70.472px;
+		overflow: visible;
+	}
+	#by_Obsessionliveoriginal_da {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 240px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#vdeoimage1 {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 320;
+		height: 213;
+		left: 11.634px;
+		top: 0px;
+		overflow: visible;
+	}
+	#linescrub_c {
+		fill: rgba(224,174,9,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.linescrub_c {
+		position: absolute;
+		overflow: visible;
+		width: 322px;
+		height: 12px;
+		left: 11px;
+		top: 221.15px;
+	}
+	#play_c {
+		opacity: 0.906;
+		position: absolute;
+		width: 127px;
+		height: 127px;
+		left: 119px;
+		top: 41.15px;
+		overflow: visible;
+	}
+	#miniplaybox1_c {
+		position: absolute;
+		width: 102px;
+		height: 39px;
+		left: 17px;
+		top: 147.15px;
+		overflow: visible;
+	}
+	#pbox-bot_c {
+		fill: rgba(224,174,9,1);
+	}
+	.pbox-bot_c {
+		position: absolute;
+		overflow: visible;
+		width: 102px;
+		height: 36px;
+		left: 0px;
+		top: 1px;
+	}
+	#play-icon-bit_c {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 5px;
+		top: 8px;
+		overflow: visible;
+	}
+	#pbox-top_c {
+		fill: rgba(39,22,80,1);
+	}
+	.pbox-top_c {
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		height: 39px;
+		left: 33px;
+		top: 0px;
+	}
+	#n_56 {
+		left: 44.412px;
+		top: 9.984px;
+		position: absolute;
+		overflow: visible;
+		width: 42px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2px;
+		text-align: right;
+		font-family: Noway Round;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#TITLE2-VIDEO {
+		position: absolute;
+		width: 859.066px;
+		height: 129.054px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_6 {
+		position: absolute;
+		width: 722.614px;
+		height: 3.349px;
+		left: 0px;
+		top: 125.705px;
+		overflow: visible;
+	}
+	#vdeeo-title {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 279;
+		height: 90;
+		left: 0.722px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTTXT4-Back_home_Obsession_ {
+		position: absolute;
+		width: 522.465px;
+		height: 580.777px;
+		left: 5.534px;
+		top: 2966.048px;
+		overflow: visible;
+	}
+	#BODYTTXT4-Back_home_Obsession__df {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 523.465px;
+		height: 580.77734375px;
+		line-height: 48px;
+		margin-top: -14.5px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#BODYTXT3-Obsession_LIVE_posses {
+		position: absolute;
+		width: 515.999px;
+		height: 338px;
+		left: 7.751px;
+		top: 1725.825px;
+		overflow: visible;
+	}
+	#BODYTXT3-Obsession_LIVE_posses_dh {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 516.999px;
+		height: 338px;
+		line-height: 48.380950927734375px;
+		margin-top: -14.690475463867188px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA2-VDEO1 {
+		position: absolute;
+		width: 513.931px;
+		height: 297.514px;
+		left: 11.5px;
+		top: 1407px;
+		overflow: visible;
+	}
+	#GALLERIA2-VDEO1_dj {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 513;
+		height: 297;
+		left: 0px;
+		top: 0px;
+		overflow: auto;
+	}
+	#BODYTXTT2-Be_inspired_as_you {
+		position: absolute;
+		width: 515.999px;
+		height: 196.775px;
+		left: 7.751px;
+		top: 1217.225px;
+		overflow: visible;
+	}
+	#BODYTXTT2-Be_inspired_as_you_dl {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 516.999px;
+		height: 196.77459716796875px;
+		line-height: 48.380950927734375px;
+		margin-top: -14.690475463867188px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERY {
+		position: absolute;
+		width: 409.001px;
+		height: 5923.411px;
+		left: 68.499px;
+		top: 341.426px;
+		overflow: visible;
+	}
+	#GALLERIA6-PICROW4 {
+		position: absolute;
+		width: 409px;
+		height: 852.997px;
+		left: 0.001px;
+		top: 5070.414px;
+		overflow: visible;
+	}
+	#obsl-pic12-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 581.997px;
+		overflow: visible;
+	}
+	#obsl-pic12-ph_dp {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic11-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 290.999px;
+		overflow: visible;
+	}
+	#obsl-pic11-ph_dr {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic10-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic10-ph_dt {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 371;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GALLERIA5-PICROW3 {
+		position: absolute;
+		width: 409px;
+		height: 854.569px;
+		left: 0.001px;
+		top: 3669.366px;
+		overflow: visible;
+	}
+	#obsl-pic9-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 583.569px;
+		overflow: visible;
+	}
+	#obsl-pic9-ph_dw {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic8-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 291.785px;
+		overflow: visible;
+	}
+	#obsl-pic8-ph_dy {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic7-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic7-ph_d {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GALLERIA3-PICROW2 {
+		position: absolute;
+		width: 409px;
+		height: 854px;
+		left: 0.001px;
+		top: 1726.445px;
+		overflow: visible;
+	}
+	#obsl-pic6-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 583px;
+		overflow: visible;
+	}
+	#obsl-pic6-ph_d {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic5-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 291.5px;
+		overflow: visible;
+	}
+	#obsl-pic5-ph_d {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic4-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic4-ph_d {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GALLERIA1-PICROW1 {
+		position: absolute;
+		width: 409px;
+		height: 798px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic3 {
+		position: absolute;
+		width: 400px;
+		height: 212px;
+		left: 0.001px;
+		top: 586px;
+		overflow: visible;
+	}
+	#obsl-pic3-ph {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic2 {
+		position: absolute;
+		width: 400px;
+		height: 265px;
+		left: 0.001px;
+		top: 291px;
+		overflow: visible;
+	}
+	#obsl-pic2-ph {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph_ee {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a {
+		position: absolute;
+		width: 513.999px;
+		height: 349.214px;
+		left: 10.5px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a_eg {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 514.999px;
+		height: 349.2144775390625px;
+		line-height: 48.380950927734375px;
+		margin-top: -14.690475463867188px;
+		text-align: left;
+		font-family: Century Gothic;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#HEAD {
+		position: absolute;
+		width: 580px;
+		height: 818px;
+		left: 0px;
+		top: 27.894px;
+		overflow: visible;
+	}
+	#obsl-back {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 580;
+		height: 720;
+		left: 0px;
+		top: 98px;
+		overflow: visible;
+	}
+	#R1-BOOKBUT1-CTA3 {
+		position: absolute;
+		width: 566.621px;
+		height: 72.19px;
+		left: 7.288px;
+		top: 697.788px;
+		overflow: visible;
+	}
+	#SM0-BUTBACK {
+		fill: transparent;
+	}
+	.SM0-BUTBACK {
+		position: absolute;
+		overflow: visible;
+		width: 566.621px;
+		height: 72.19px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM0-TXT0-B {
+		left: 223.928px;
+		top: 24.595px;
+		position: absolute;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#SM0-TXT0-A {
+		display: none;
+		left: 318.708px;
+		top: 28.096px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#CALEND-ICON-BLACK {
+		position: absolute;
+		width: 44px;
+		height: 45px;
+		left: 339.994px;
+		top: 11.037px;
+		display: none;
+		overflow: visible;
+	}
+	#Layer_44 {
+		fill: transparent;
+	}
+	.Layer_44 {
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 45px;
+		left: 0px;
+		top: 0px;
+	}
+	#Layer_45 {
+		fill: transparent;
+	}
+	.Layer_45 {
+		position: absolute;
+		overflow: visible;
+		width: 33px;
+		height: 21px;
+		left: 5px;
+		top: 20px;
+	}
+	#CALEND-ICON-WHITE {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 172.954px;
+		top: 10.772px;
+		overflow: visible;
+	}
+	#Layer_44_er {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_45_es {
+		position: absolute;
+		width: 33px;
+		height: 23px;
+		left: 5px;
+		top: 20px;
+		overflow: visible;
+	}
+	#Subtitle1-WITH_AN_UNSURPASSABL {
+		position: absolute;
+		width: 544px;
+		height: 26px;
+		left: 1px;
+		top: 648.106px;
+		overflow: visible;
+	}
+	#Subtitle2 {
+		filter: drop-shadow(0px 7px 24px rgba(0, 0, 0, 0.302));
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 545px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.82px;
+	}
+	#Title-A_VIBE_YOU_CAN_TRUST_ {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 571;
+		height: 207;
+		left: 4.5px;
+		top: 412.106px;
+		overflow: visible;
+	}
+	#Obslive-logo1 {
+		position: absolute;
+		width: 219px;
+		height: 271px;
+		left: 17.5px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obslive-logo-ph {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 219;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#WELCOME_MAT {
+		position: absolute;
+		width: 246px;
+		height: 122px;
+		left: 302.421px;
+		top: 81px;
+		overflow: visible;
+	}
+	#welcome-mat {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 246;
+		height: 122;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#HAT_RICK {
+		position: absolute;
+		width: 580px;
+		height: 815px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#C1BUT-TBCTA2-MAIL {
+		position: absolute;
+		width: 580px;
+		height: 62px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_9 {
+		fill: transparent;
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 580px;
+		height: 62px;
+		left: 0px;
+		top: 0px;
+	}
+	#n_obsessionlive24gmailcom {
+		left: 224px;
+		top: 18px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -5.5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(79,231,255,1);
+		letter-spacing: 0.4px;
+	}
+	#L1BUT-TBCTA1-CALL {
+		position: absolute;
+		width: 580px;
+		height: 56px;
+		left: 0px;
+		top: 62px;
+		overflow: visible;
+	}
+	#Rectangle_8 {
+		fill: transparent;
+	}
+	.Rectangle_8 {
+		position: absolute;
+		overflow: visible;
+		width: 580px;
+		height: 56px;
+		left: 0px;
+		top: 0px;
+	}
+	#Get_in_touch_076_727_9772 {
+		left: 250px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		height: 26px;
+		line-height: 32px;
+		margin-top: -5.5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#C1-CTA3-BOOK {
+		position: absolute;
+		width: 580px;
+		height: 105px;
+		left: 0px;
+		top: 710px;
+		overflow: visible;
+	}
+	#Rectangle_14 {
+		fill: transparent;
+	}
+	.Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 580px;
+		height: 105px;
+		left: 0px;
+		top: 0px;
+	}
+	#n_1bot-brand-botbar {
+		position: absolute;
+		width: 580px;
+		height: 42px;
+		left: 0px;
+		top: 7874px;
+		display: none;
+		overflow: visible;
+	}
+	#Rectangle_13 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 580px;
+		height: 42px;
+		left: 0px;
+		top: 0px;
+	}
+	#Designed_and_developed_by {
+		left: 296.341px;
+		top: 10.5px;
+		position: absolute;
+		overflow: visible;
+		width: 247px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -7.5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(10,43,178,1);
+		letter-spacing: 0.22px;
+	}
+	#Andtwone-logo {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 132;
+		height: 39;
+		left: 123.401px;
+		top: 4.5px;
+		overflow: visible;
+	}
+}
+@media (min-width: 1280px) and (max-width: 1439px) {
+	.mediaViewInfo {
+		--web-view-name: Laptop-SMALL- BP1280 - 3;
+		--web-view-id: Laptop-SMALL-_BP1280_-_3;
+		--web-scale-on-resize: true;
+		--web-scale-on-double-click: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Laptop-SMALL-_BP1280_-_3 {
+		position: absolute;
+		display: block;
+		width: 1280px;
+		height: 4806px;
+		background: linear-gradient(180deg, rgba(26,93,185,1) 0%, rgba(31,141,209,1) 100%);
+		overflow: hidden;
+		--web-view-name: Laptop-SMALL- BP1280 - 3;
+		--web-view-id: Laptop-SMALL-_BP1280_-_3;
+		--web-scale-on-resize: true;
+		--web-scale-on-double-click: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Obsl-webxd {
+		position: absolute;
+		width: 1280px;
+		height: 4806px;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 0px;
+		overflow: auto;
+	}
+	#botbar {
+		position: absolute;
+		width: 1280px;
+		height: 53.107px;
+		left: 0px;
+		top: 4752.893px;
+		overflow: visible;
+	}
+	#Rectangle_13_fi {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_13_fi {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	#Designed_and_developed_by_fj {
+		left: 455.464px;
+		top: 19.107px;
+		position: absolute;
+		overflow: visible;
+		width: 247px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -7.5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(10,43,178,1);
+		letter-spacing: 0.22px;
+	}
+	#Andtwone-logo_fk {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 132;
+		height: 39;
+		left: 627.095px;
+		top: 7.107px;
+		overflow: visible;
+	}
+	#BODY_fl {
+		position: absolute;
+		width: 1265px;
+		height: 3942.114px;
+		left: 15px;
+		top: 764px;
+		overflow: visible;
+	}
+	#GALLERIA6-PICROW4_fm {
+		position: absolute;
+		width: 1258px;
+		height: 271.48px;
+		left: 0px;
+		top: 3670.634px;
+		overflow: visible;
+	}
+	#obsl-pic12-ph_fn {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 849px;
+		top: 0.486px;
+		overflow: visible;
+	}
+	#obsl-pic11-ph_fo {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 425.258px;
+		top: 0.505px;
+		overflow: visible;
+	}
+	#obsl-pic10-ph_fp {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT6-Whatever_their_secret_fq {
+		position: absolute;
+		width: 1122.559px;
+		height: 408.223px;
+		left: 52.175px;
+		top: 3275.522px;
+		overflow: visible;
+	}
+	#BODYTXT6-Whatever_their_secret_fr {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1123.559px;
+		height: 408.2227783203125px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA5-PICROW3_fs {
+		position: absolute;
+		width: 1258px;
+		height: 271.48px;
+		left: 0px;
+		top: 2986.522px;
+		overflow: visible;
+	}
+	#obsl-pic9-ph_ft {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 849px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic8-ph_fu {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 424.247px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic7-ph_fv {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT5-But_what_qualities_be_fw {
+		position: absolute;
+		width: 1212.825px;
+		height: 154.223px;
+		left: 52.175px;
+		top: 2870.908px;
+		overflow: visible;
+	}
+	#BODYTXT5-But_what_qualities_be_fx {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1213.825px;
+		height: 154.22279357910156px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA4-VDEOBUTVIEW_fy {
+		position: absolute;
+		width: 1111px;
+		height: 620px;
+		left: 0px;
+		top: 2247.73px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2_fz {
+		position: absolute;
+		width: 1111px;
+		height: 620px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2_f {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1245;
+		height: 592;
+		left: 0px;
+		top: 0px;
+		overflow: auto;
+	}
+	#BODYTTXT4-Back_home_Obsession__f {
+		position: absolute;
+		width: 1125.559px;
+		height: 474.777px;
+		left: 72.264px;
+		top: 1821.244px;
+		overflow: visible;
+	}
+	#BODYTTXT4-Back_home_Obsession__ga {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1126.559px;
+		height: 474.77740478515625px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA3-PICROW2_f {
+		position: absolute;
+		width: 1258px;
+		height: 271.48px;
+		left: 0px;
+		top: 1525.551px;
+		overflow: visible;
+	}
+	#obsl-pic6-ph_f {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 849px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic5-ph_f {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 424.999px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic4-ph_f {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT3-Obsession_LIVE_posses_f {
+		position: absolute;
+		width: 1125.559px;
+		height: 263.929px;
+		left: 72.264px;
+		top: 1279.48px;
+		overflow: visible;
+	}
+	#BODYTXT3-Obsession_LIVE_posses_ga {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1126.559px;
+		height: 263.9287109375px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA2-VDEO1_f {
+		position: absolute;
+		width: 1111px;
+		height: 620px;
+		left: 0px;
+		top: 659.521px;
+		overflow: visible;
+	}
+	#GALLERIA2-VDEO1_ga {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1111;
+		height: 620;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXTT2-Be_inspired_as_you_gb {
+		position: absolute;
+		width: 1125.559px;
+		height: 159.775px;
+		left: 72.264px;
+		top: 542.777px;
+		overflow: visible;
+	}
+	#BODYTXTT2-Be_inspired_as_you_gc {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1126.559px;
+		height: 159.77459716796875px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA1-PICROW1_gd {
+		position: absolute;
+		width: 1258px;
+		height: 272.202px;
+		left: 0px;
+		top: 252.907px;
+		overflow: visible;
+	}
+	#obsl-pic3_ge {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 849px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic3-ph_gf {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic2_gg {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 424.631px;
+		top: 1.202px;
+		overflow: visible;
+	}
+	#obsl-pic2-ph_gh {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph_gi {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph_gj {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a_gk {
+		position: absolute;
+		width: 1148.736px;
+		height: 262.214px;
+		left: 72.264px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a_gl {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 1149.736px;
+		height: 262.2144775390625px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#HEAD_gm {
+		position: absolute;
+		width: 1059.126px;
+		height: 672px;
+		left: 117.937px;
+		top: 67.595px;
+		overflow: visible;
+	}
+	#obsl-back_gn {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1251;
+		height: 633;
+		left: 0px;
+		top: 39px;
+		overflow: visible;
+	}
+	#Subtitle1-WITH_AN_UNSURPASSABL_go {
+		position: absolute;
+		width: 622px;
+		height: 29px;
+		left: 7px;
+		top: 603.174px;
+		overflow: visible;
+	}
+	#Subtitle2_gp {
+		filter: drop-shadow(0px 7px 24px rgba(0, 0, 0, 0.302));
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 623px;
+		white-space: nowrap;
+		line-height: 29px;
+		margin-top: -2.5px;
+		text-align: right;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.82px;
+	}
+	#Title-A_VIBE_YOU_CAN_TRUST__gq {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 429;
+		height: 183;
+		left: 19.286px;
+		top: 344px;
+		overflow: visible;
+	}
+	#Obslive-logo1_gr {
+		position: absolute;
+		width: 257px;
+		height: 285px;
+		left: 7.286px;
+		top: 18px;
+		overflow: visible;
+	}
+	#obslive-logo-ph_gs {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 283;
+		height: 314;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#WELCOME_MAT_gt {
+		position: absolute;
+		width: 246px;
+		height: 146px;
+		left: 473.543px;
+		top: 0px;
+		overflow: visible;
+	}
+	#welcome-mat_gu {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 246;
+		height: 122;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#HAT_RICK_gv {
+		position: absolute;
+		width: 1237.295px;
+		height: 65px;
+		left: 2px;
+		top: 12.595px;
+		overflow: visible;
+	}
+	#R1-BOOKBUT1-CTA3_gw {
+		position: absolute;
+		width: 491.258px;
+		height: 64.595px;
+		left: 746.037px;
+		top: 0.405px;
+		overflow: visible;
+	}
+	#SM0-BUTBACK_gx {
+		fill: transparent;
+	}
+	.SM0-BUTBACK_gx {
+		position: absolute;
+		overflow: visible;
+		width: 491.258px;
+		height: 64.595px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM0-TXT0-B_gy {
+		left: 153.601px;
+		top: 15.712px;
+		position: absolute;
+		overflow: visible;
+		width: 125px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#SM0-TXT0-A_gz {
+		left: 143.775px;
+		top: 34.396px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#CALEND-ICON-BLACK_g {
+		position: absolute;
+		width: 44px;
+		height: 45px;
+		left: 290.966px;
+		top: 7.954px;
+		display: none;
+		overflow: visible;
+	}
+	#Layer_44_g {
+		fill: transparent;
+	}
+	.Layer_44_g {
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 45px;
+		left: 0px;
+		top: 0px;
+	}
+	#Layer_45_g {
+		fill: transparent;
+	}
+	.Layer_45_g {
+		position: absolute;
+		overflow: visible;
+		width: 33px;
+		height: 21px;
+		left: 5px;
+		top: 20px;
+	}
+	#CALEND-ICON-WHITE_g {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 291.966px;
+		top: 10.038px;
+		overflow: visible;
+	}
+	#Layer_44_ha {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_45_ha {
+		position: absolute;
+		width: 33px;
+		height: 23px;
+		left: 5px;
+		top: 20px;
+		overflow: visible;
+	}
+	#C1BUT-TBCTA2-MAIL_g {
+		position: absolute;
+		width: 604px;
+		height: 61px;
+		left: 367.131px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_9_g {
+		fill: transparent;
+	}
+	.Rectangle_9_g {
+		position: absolute;
+		overflow: visible;
+		width: 604px;
+		height: 61px;
+		left: 0px;
+		top: 0px;
+	}
+	#n_obsessionlive24gmailcom_g {
+		left: 129.177px;
+		top: 18.456px;
+		position: absolute;
+		overflow: visible;
+		width: 327px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(79,231,255,1);
+		letter-spacing: 0.4px;
+	}
+	#L1BUT-TBCTA1-CALL_g {
+		position: absolute;
+		width: 498px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_8_ha {
+		fill: transparent;
+	}
+	.Rectangle_8_ha {
+		position: absolute;
+		overflow: visible;
+		width: 498px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+	}
+	#Get_in_touch_076_727_9772_hb {
+		left: 118.5px;
+		top: 19px;
+		position: absolute;
+		overflow: visible;
+		width: 318px;
+		height: 27px;
+		line-height: 32px;
+		margin-top: -5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#BOOKBAND-OVL-BUT3 {
+		position: absolute;
+		width: 540px;
+		height: 87px;
+		left: 740px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_hd {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_hd {
+		position: absolute;
+		overflow: visible;
+		width: 540px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#BOOKBAND-OVL-BUT2 {
+		position: absolute;
+		width: 426px;
+		height: 87px;
+		left: 463px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_hf {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_hf {
+		position: absolute;
+		overflow: visible;
+		width: 426px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#BOOKBAND-OVL-BUT1 {
+		position: absolute;
+		width: 463px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_hh {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_hh {
+		position: absolute;
+		overflow: visible;
+		width: 463px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM_BENJBUTTON_BAR_hi {
+		position: absolute;
+		width: 343.154px;
+		height: 465px;
+		left: 862.738px;
+		top: 140.595px;
+		overflow: visible;
+	}
+	#SMBUT5-UTUBE_hj {
+		position: absolute;
+		width: 342px;
+		height: 93px;
+		left: 0.168px;
+		top: 372px;
+		overflow: visible;
+	}
+	#SM5-BUTBACK5_hk {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 93px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM5-TXT-UTUBE_hl {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-TXT-UTUBE_hl {
+		overflow: visible;
+		position: absolute;
+		width: 103.781px;
+		height: 30.227px;
+		left: 141.517px;
+		top: 31.387px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM5-ICON5_hm {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-ICON5_hm {
+		overflow: visible;
+		position: absolute;
+		width: 36.689px;
+		height: 26.125px;
+		left: 89.172px;
+		top: 31.285px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT4-INSTAG_hn {
+		position: absolute;
+		width: 342px;
+		height: 91px;
+		left: 0.168px;
+		top: 281px;
+		overflow: visible;
+	}
+	#SM4-BUTBACK4_ho {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 91px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM4-TXT-INSTAG_hp {
+		fill: rgba(255,255,255,1);
+	}
+	.SM4-TXT-INSTAG_hp {
+		overflow: visible;
+		position: absolute;
+		width: 80.387px;
+		height: 30.227px;
+		left: 163.566px;
+		top: 33.544px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM4-ICON4_hq {
+		position: absolute;
+		width: 29px;
+		height: 30px;
+		left: 94px;
+		top: 34px;
+		overflow: visible;
+	}
+	#SMBUT3-TWITTER_hr {
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0.168px;
+		top: 190px;
+		overflow: visible;
+	}
+	#SM3-BUTBACK3_hs {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM3-TXT-TWITTER_ht {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-TXT-TWITTER_ht {
+		overflow: visible;
+		position: absolute;
+		width: 78.288px;
+		height: 30.09px;
+		left: 166.77px;
+		top: 32.514px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM3-ICON3_hu {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-ICON3_hu {
+		overflow: visible;
+		position: absolute;
+		width: 28.823px;
+		height: 23.51px;
+		left: 94.009px;
+		top: 34.245px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT2-WHATSAPP_hv {
+		position: absolute;
+		width: 343.154px;
+		height: 103.554px;
+		left: 0px;
+		top: 89.683px;
+		overflow: visible;
+	}
+	#SM2-BUTBACK2_hw {
+		opacity: 0.329;
+		position: absolute;
+		width: 343.154px;
+		height: 103.554px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM2-TXT-WHATSAPP_hx {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-TXT-WHATSAPP_hx {
+		overflow: visible;
+		position: absolute;
+		width: 76.893px;
+		height: 30.227px;
+		left: 167.236px;
+		top: 39.089px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM2-ICON2_hy {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-ICON2_hy {
+		overflow: visible;
+		position: absolute;
+		width: 31.445px;
+		height: 31.353px;
+		left: 92.176px;
+		top: 34.141px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT1-FB_hz {
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0.168px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM1-BUTBACK_h {
+		opacity: 0.329;
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM1-ICON1_h {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-ICON1_h {
+		overflow: visible;
+		position: absolute;
+		width: 27.517px;
+		height: 27.432px;
+		left: 96.072px;
+		top: 32.847px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM1-TXT-FB_h {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-TXT-FB_h {
+		overflow: visible;
+		position: absolute;
+		width: 82.493px;
+		height: 30.227px;
+		left: 166.048px;
+		top: 33.742px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
+@media (min-width: 1440px) and (max-width: 1919px) {
+	.mediaViewInfo {
+		--web-view-name: Desktop-MEDIUM- BP1440 - 2;
+		--web-view-id: Desktop-MEDIUM-_BP1440_-_2;
+		--web-scale-on-resize: true;
+		--web-scale-on-double-click: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Desktop-MEDIUM-_BP1440_-_2 {
+		position: absolute;
+		display: block;
+		width: 1440px;
+		height: 4697px;
+		background: linear-gradient(180deg, rgba(26,93,185,1) 0%, rgba(31,141,209,1) 100%);
+		overflow: hidden;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: view;
+		--web-action-target: Laptop-SMALL-_BP1280_-_3;
+		cursor: pointer;
+		--web-view-name: Desktop-MEDIUM- BP1440 - 2;
+		--web-view-id: Desktop-MEDIUM-_BP1440_-_2;
+		--web-scale-on-resize: true;
+		--web-scale-on-double-click: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Obsl-webxd_h {
+		position: absolute;
+		width: 1441.258px;
+		height: 4697px;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 0px;
+		overflow: auto;
+	}
+	#botbar_h {
+		position: absolute;
+		width: 1440px;
+		height: 53px;
+		left: 0px;
+		top: 4644px;
+		overflow: visible;
+	}
+	#Rectangle_13_h {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_13_h {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	#Designed_and_developed_by_h {
+		left: 525.942px;
+		top: 17.5px;
+		position: absolute;
+		overflow: visible;
+		width: 247px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -7.5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(10,43,178,1);
+		letter-spacing: 0.22px;
+	}
+	#Andtwone-logo_ia {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 132;
+		height: 39;
+		left: 718.977px;
+		top: 5.5px;
+		overflow: visible;
+	}
+	#BODY_ib {
+		position: absolute;
+		width: 1306px;
+		height: 3839.811px;
+		left: 78px;
+		top: 770.486px;
+		overflow: visible;
+	}
+	#GALLERIA6-PICROW4_ic {
+		position: absolute;
+		width: 1266px;
+		height: 271.019px;
+		left: 0px;
+		top: 3568.792px;
+		overflow: visible;
+	}
+	#obsl-pic12-ph_id {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 857px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic11-ph_ie {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 429.266px;
+		top: 0.019px;
+		overflow: visible;
+	}
+	#obsl-pic10-ph_if {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT6-Whatever_their_secret_ig {
+		position: absolute;
+		width: 1168px;
+		height: 344.223px;
+		left: 58px;
+		top: 3201.897px;
+		overflow: visible;
+	}
+	#BODYTXT6-Whatever_their_secret_ih {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 1169px;
+		height: 344.2227783203125px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA5-PICROW3_ii {
+		position: absolute;
+		width: 1266px;
+		height: 271px;
+		left: 0px;
+		top: 2907.238px;
+		overflow: visible;
+	}
+	#obsl-pic9-ph_ij {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 857px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic8-ph_ik {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 428.245px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic7-ph_il {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT5-But_what_qualities_be_im {
+		position: absolute;
+		width: 1168px;
+		height: 103.223px;
+		left: 58px;
+		top: 2791.43px;
+		overflow: visible;
+	}
+	#BODYTXT5-But_what_qualities_be_in {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 1169px;
+		height: 103.22279357910156px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA4-VDEOBUTVIEW_io {
+		position: absolute;
+		width: 1306px;
+		height: 592.31px;
+		left: 0px;
+		top: 2167.656px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2_ip {
+		position: absolute;
+		width: 1306px;
+		height: 592.31px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2_iq {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1245;
+		height: 592;
+		left: 0px;
+		top: 0px;
+		overflow: auto;
+	}
+	#BODYTTXT4-Back_home_Obsession__ir {
+		position: absolute;
+		width: 1168px;
+		height: 404.777px;
+		left: 58px;
+		top: 1762.878px;
+		overflow: visible;
+	}
+	#BODYTTXT4-Back_home_Obsession__is {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1169px;
+		height: 404.77740478515625px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA3-PICROW2_it {
+		position: absolute;
+		width: 1266px;
+		height: 271px;
+		left: 0px;
+		top: 1463.433px;
+		overflow: visible;
+	}
+	#obsl-pic6-ph_iu {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 857px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic5-ph_iv {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 429.003px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic4-ph_iw {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT3-Obsession_LIVE_posses_ix {
+		position: absolute;
+		width: 1168px;
+		height: 190.929px;
+		left: 58px;
+		top: 1241.895px;
+		overflow: visible;
+	}
+	#BODYTXT3-Obsession_LIVE_posses_iy {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 1169px;
+		height: 190.9287109375px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA2-VDEO1_iz {
+		position: absolute;
+		width: 1300px;
+		height: 592.31px;
+		left: 0px;
+		top: 623.917px;
+		overflow: visible;
+	}
+	#GALLERIA2-VDEO1_i {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1248;
+		height: 592;
+		left: 0px;
+		top: 0px;
+		overflow: auto;
+	}
+	#BODYTXTT2-Be_inspired_as_you_i {
+		position: absolute;
+		width: 1208px;
+		height: 100.775px;
+		left: 58px;
+		top: 503.777px;
+		overflow: visible;
+	}
+	#BODYTXTT2-Be_inspired_as_you_ja {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1209px;
+		height: 100.77459716796875px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA1-PICROW1_i {
+		position: absolute;
+		width: 1266.734px;
+		height: 271px;
+		left: 0px;
+		top: 207.109px;
+		overflow: visible;
+	}
+	#obsl-pic3_i {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 857.734px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic3-ph_i {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic2_i {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 429px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic2-ph_i {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph_i {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph_ja {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a_ja {
+		position: absolute;
+		width: 1168px;
+		height: 184.214px;
+		left: 58px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a_jb {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 1169px;
+		height: 184.21449279785156px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#HEAD_jc {
+		position: absolute;
+		width: 1300px;
+		height: 687px;
+		left: 78px;
+		top: 58.595px;
+		overflow: visible;
+	}
+	#obsl-back_jd {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1251;
+		height: 633;
+		left: 0px;
+		top: 54px;
+		overflow: visible;
+	}
+	#Subtitle1-WITH_AN_UNSURPASSABL_je {
+		position: absolute;
+		width: 622px;
+		height: 29px;
+		left: 80px;
+		top: 618.174px;
+		overflow: visible;
+	}
+	#Subtitle2_jf {
+		filter: drop-shadow(0px 7px 24px rgba(0, 0, 0, 0.302));
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 623px;
+		white-space: nowrap;
+		line-height: 29px;
+		margin-top: -2.5px;
+		text-align: right;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.82px;
+	}
+	#Title-A_VIBE_YOU_CAN_TRUST__jg {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 429;
+		height: 183;
+		left: 92.286px;
+		top: 359px;
+		overflow: visible;
+	}
+	#Obslive-logo1_jh {
+		position: absolute;
+		width: 257px;
+		height: 285px;
+		left: 80.286px;
+		top: 33px;
+		overflow: visible;
+	}
+	#obslive-logo-ph_ji {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 283;
+		height: 314;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#WELCOME_MAT_jj {
+		position: absolute;
+		width: 246px;
+		height: 146px;
+		left: 551.129px;
+		top: 0px;
+		overflow: visible;
+	}
+	#welcome-mat_jk {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 246;
+		height: 122;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#HAT_RICK_jl {
+		position: absolute;
+		width: 1438.387px;
+		height: 70.595px;
+		left: 2.871px;
+		top: 6px;
+		overflow: visible;
+	}
+	#R1-BOOKBUT1-CTA3_jm {
+		position: absolute;
+		width: 491.258px;
+		height: 64.595px;
+		left: 947.129px;
+		top: 6px;
+		overflow: visible;
+	}
+	#SM0-BUTBACK_jn {
+		fill: transparent;
+	}
+	.SM0-BUTBACK_jn {
+		position: absolute;
+		overflow: visible;
+		width: 491.258px;
+		height: 64.595px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM0-TXT0-B_jo {
+		left: 153.601px;
+		top: 15.712px;
+		position: absolute;
+		overflow: visible;
+		width: 125px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#SM0-TXT0-A_jp {
+		left: 143.775px;
+		top: 34.396px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#CALEND-ICON-BLACK_jq {
+		position: absolute;
+		width: 44px;
+		height: 45px;
+		left: 290.966px;
+		top: 7.954px;
+		display: none;
+		overflow: visible;
+	}
+	#Layer_44_jr {
+		fill: transparent;
+	}
+	.Layer_44_jr {
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 45px;
+		left: 0px;
+		top: 0px;
+	}
+	#Layer_45_js {
+		fill: transparent;
+	}
+	.Layer_45_js {
+		position: absolute;
+		overflow: visible;
+		width: 33px;
+		height: 21px;
+		left: 5px;
+		top: 20px;
+	}
+	#CALEND-ICON-WHITE_jt {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 291.966px;
+		top: 10.037px;
+		overflow: visible;
+	}
+	#Layer_44_ju {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_45_jv {
+		position: absolute;
+		width: 33px;
+		height: 23px;
+		left: 5px;
+		top: 20px;
+		overflow: visible;
+	}
+	#C1BUT-TBCTA2-MAIL_jw {
+		position: absolute;
+		width: 604px;
+		height: 61px;
+		left: 467.129px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_9_jx {
+		fill: transparent;
+	}
+	.Rectangle_9_jx {
+		position: absolute;
+		overflow: visible;
+		width: 604px;
+		height: 61px;
+		left: 0px;
+		top: 0px;
+	}
+	#n_obsessionlive24gmailcom_jy {
+		left: 129.177px;
+		top: 18.456px;
+		position: absolute;
+		overflow: visible;
+		width: 327px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(79,231,255,1);
+		letter-spacing: 0.4px;
+	}
+	#L1BUT-TBCTA1-CALL_jz {
+		position: absolute;
+		width: 498px;
+		height: 65px;
+		left: 0px;
+		top: 1.595px;
+		overflow: visible;
+	}
+	#Rectangle_8_j {
+		fill: transparent;
+	}
+	.Rectangle_8_j {
+		position: absolute;
+		overflow: visible;
+		width: 498px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+	}
+	#Get_in_touch_076_727_9772_j {
+		left: 136.5px;
+		top: 19px;
+		position: absolute;
+		overflow: visible;
+		width: 318px;
+		height: 27px;
+		line-height: 32px;
+		margin-top: -5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#BOOKBAND-OVL-BUT3_j {
+		position: absolute;
+		width: 540px;
+		height: 87px;
+		left: 764px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_ka {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_ka {
+		position: absolute;
+		overflow: visible;
+		width: 540px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#BOOKBAND-OVL-BUT2_j {
+		position: absolute;
+		width: 527px;
+		height: 87px;
+		left: 469.936px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_kb {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_kb {
+		position: absolute;
+		overflow: visible;
+		width: 527px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#BOOKBAND-OVL-BUT1_j {
+		position: absolute;
+		width: 581px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_kc {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_kc {
+		position: absolute;
+		overflow: visible;
+		width: 581px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM_BENJBUTTON_BAR_j {
+		position: absolute;
+		width: 343.154px;
+		height: 465px;
+		left: 988.54px;
+		top: 179.595px;
+		overflow: visible;
+	}
+	#SMBUT5-UTUBE_j {
+		position: absolute;
+		width: 342px;
+		height: 93px;
+		left: 0.168px;
+		top: 372px;
+		overflow: visible;
+	}
+	#SM5-BUTBACK5_ka {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 93px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM5-TXT-UTUBE_kb {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-TXT-UTUBE_kb {
+		overflow: visible;
+		position: absolute;
+		width: 103.781px;
+		height: 30.227px;
+		left: 141.516px;
+		top: 31.387px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM5-ICON5_kc {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-ICON5_kc {
+		overflow: visible;
+		position: absolute;
+		width: 36.689px;
+		height: 26.125px;
+		left: 89.171px;
+		top: 31.285px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT4-INSTAG_kd {
+		position: absolute;
+		width: 342px;
+		height: 91px;
+		left: 0.168px;
+		top: 281px;
+		overflow: visible;
+	}
+	#SM4-BUTBACK4_ke {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 91px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM4-TXT-INSTAG_kf {
+		fill: rgba(255,255,255,1);
+	}
+	.SM4-TXT-INSTAG_kf {
+		overflow: visible;
+		position: absolute;
+		width: 80.387px;
+		height: 30.227px;
+		left: 163.566px;
+		top: 33.544px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM4-ICON4_kg {
+		position: absolute;
+		width: 29px;
+		height: 30px;
+		left: 94px;
+		top: 34px;
+		overflow: visible;
+	}
+	#SMBUT3-TWITTER_kh {
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0.168px;
+		top: 190px;
+		overflow: visible;
+	}
+	#SM3-BUTBACK3_ki {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM3-TXT-TWITTER_kj {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-TXT-TWITTER_kj {
+		overflow: visible;
+		position: absolute;
+		width: 78.288px;
+		height: 30.09px;
+		left: 166.77px;
+		top: 32.514px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM3-ICON3_kk {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-ICON3_kk {
+		overflow: visible;
+		position: absolute;
+		width: 28.823px;
+		height: 23.51px;
+		left: 94.009px;
+		top: 34.245px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT2-WHATSAPP_kl {
+		position: absolute;
+		width: 343.154px;
+		height: 103.554px;
+		left: 0px;
+		top: 89.683px;
+		overflow: visible;
+	}
+	#SM2-BUTBACK2_km {
+		opacity: 0.329;
+		position: absolute;
+		width: 343.154px;
+		height: 103.554px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM2-TXT-WHATSAPP_kn {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-TXT-WHATSAPP_kn {
+		overflow: visible;
+		position: absolute;
+		width: 76.893px;
+		height: 30.227px;
+		left: 167.236px;
+		top: 39.089px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM2-ICON2_ko {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-ICON2_ko {
+		overflow: visible;
+		position: absolute;
+		width: 31.445px;
+		height: 31.353px;
+		left: 92.176px;
+		top: 34.141px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT1-FB_kp {
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0.168px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM1-BUTBACK_kq {
+		opacity: 0.329;
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM1-ICON1_kr {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-ICON1_kr {
+		overflow: visible;
+		position: absolute;
+		width: 27.517px;
+		height: 27.432px;
+		left: 96.073px;
+		top: 32.847px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM1-TXT-FB_ks {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-TXT-FB_ks {
+		overflow: visible;
+		position: absolute;
+		width: 82.493px;
+		height: 30.227px;
+		left: 166.048px;
+		top: 33.742px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: Desktop-LARGE- BP1920 - 1;
+		--web-view-id: Desktop-LARGE-_BP1920_-_1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Desktop-LARGE-_BP1920_-_1 {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 4697px;
+		background: linear-gradient(180deg, rgba(26,93,185,1) 0%, rgba(31,141,209,1) 100%);
+		overflow: hidden;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: view;
+		--web-action-target: Desktop-MEDIUM-_BP1440_-_2;
+		cursor: pointer;
+		--web-view-name: Desktop-LARGE- BP1920 - 1;
+		--web-view-id: Desktop-LARGE-_BP1920_-_1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Obsl-webxd_kw {
+		position: absolute;
+		width: 1920px;
+		height: 4697px;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 0px;
+		overflow: auto;
+	}
+	#botbar_kx {
+		position: absolute;
+		width: 1920px;
+		height: 53px;
+		left: 0px;
+		top: 4644px;
+		overflow: visible;
+	}
+	#Rectangle_13_ky {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_13_ky {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	#Designed_and_developed_by_kz {
+		left: 737.377px;
+		top: 17.5px;
+		position: absolute;
+		overflow: visible;
+		width: 247px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -7.5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(10,43,178,1);
+		letter-spacing: 0.22px;
+	}
+	#Andtwone-logo_k {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 132;
+		height: 39;
+		left: 994.623px;
+		top: 5.5px;
+		overflow: visible;
+	}
+	#BODY_k {
+		position: absolute;
+		width: 1306px;
+		height: 3839.811px;
+		left: 338.871px;
+		top: 762.486px;
+		overflow: visible;
+	}
+	#GALLERIA6-PICROW4_k {
+		position: absolute;
+		width: 1266px;
+		height: 271.019px;
+		left: 0px;
+		top: 3568.792px;
+		overflow: visible;
+	}
+	#obsl-pic12-ph_k {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 857px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic11-ph_k {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 429.266px;
+		top: 0.019px;
+		overflow: visible;
+	}
+	#obsl-pic10-ph_k {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT6-Whatever_their_secret_k {
+		position: absolute;
+		width: 1266px;
+		height: 344.223px;
+		left: 0px;
+		top: 3201.897px;
+		overflow: visible;
+	}
+	#BODYTXT6-Whatever_their_secret_la {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1267px;
+		height: 344.2227783203125px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA5-PICROW3_k {
+		position: absolute;
+		width: 1266px;
+		height: 271px;
+		left: 0px;
+		top: 2907.238px;
+		overflow: visible;
+	}
+	#obsl-pic9-ph_k {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 857px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic8-ph_la {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 428.245px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic7-ph_lb {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT5-But_what_qualities_be_lc {
+		position: absolute;
+		width: 1266px;
+		height: 103.223px;
+		left: 0px;
+		top: 2791.43px;
+		overflow: visible;
+	}
+	#BODYTXT5-But_what_qualities_be_ld {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1267px;
+		height: 103.22279357910156px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA4-VDEOBUTVIEW_le {
+		position: absolute;
+		width: 1306px;
+		height: 592.31px;
+		left: 0px;
+		top: 2167.656px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2_lf {
+		position: absolute;
+		width: 1306px;
+		height: 592.31px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GALLERIA4-VDEO2_lg {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1245;
+		height: 592;
+		left: 0px;
+		top: 0px;
+		overflow: auto;
+	}
+	#BODYTTXT4-Back_home_Obsession__lh {
+		position: absolute;
+		width: 1266px;
+		height: 404.777px;
+		left: 0px;
+		top: 1762.878px;
+		overflow: visible;
+	}
+	#BODYTTXT4-Back_home_Obsession__li {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1267px;
+		height: 404.77740478515625px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA3-PICROW2_lj {
+		position: absolute;
+		width: 1266px;
+		height: 271px;
+		left: 0px;
+		top: 1463.433px;
+		overflow: visible;
+	}
+	#obsl-pic6-ph_lk {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 857px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic5-ph_ll {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 429.003px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic4-ph_lm {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT3-Obsession_LIVE_posses_ln {
+		position: absolute;
+		width: 1266px;
+		height: 190.929px;
+		left: 0px;
+		top: 1241.895px;
+		overflow: visible;
+	}
+	#BODYTXT3-Obsession_LIVE_posses_lo {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1267px;
+		height: 190.9287109375px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA2-VDEO1_lp {
+		position: absolute;
+		width: 1300px;
+		height: 592.31px;
+		left: 0px;
+		top: 623.917px;
+		overflow: visible;
+	}
+	#GALLERIA2-VDEO1_lq {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1248;
+		height: 592;
+		left: 0px;
+		top: 0px;
+		overflow: auto;
+	}
+	#BODYTXTT2-Be_inspired_as_you_lr {
+		position: absolute;
+		width: 1266px;
+		height: 100.775px;
+		left: 0px;
+		top: 503.777px;
+		overflow: visible;
+	}
+	#BODYTXTT2-Be_inspired_as_you_ls {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1267px;
+		height: 100.77459716796875px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#GALLERIA1-PICROW1_lt {
+		position: absolute;
+		width: 1266.734px;
+		height: 271px;
+		left: 0px;
+		top: 207.109px;
+		overflow: visible;
+	}
+	#obsl-pic3_lu {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 857.734px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic3-ph_lv {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic2_lw {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 429px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic2-ph_lx {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph_ly {
+		position: absolute;
+		width: 409px;
+		height: 271px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#obsl-pic1-ph_lz {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 409;
+		height: 271;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a_l {
+		position: absolute;
+		width: 1266px;
+		height: 184.214px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BODYTXT1-Obsession_LIVE_is_a_ma {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 1267px;
+		height: 184.21449279785156px;
+		line-height: 48.380950927734375px;
+		margin-top: -10.316530227661133px;
+		text-align: left;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27.74789047241211px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+	#HEAD_l {
+		position: absolute;
+		width: 1300px;
+		height: 672px;
+		left: 338.871px;
+		top: 65.595px;
+		overflow: visible;
+	}
+	#obsl-back_l {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 1251;
+		height: 633;
+		left: 0px;
+		top: 39px;
+		overflow: visible;
+	}
+	#Subtitle1-WITH_AN_UNSURPASSABL_l {
+		position: absolute;
+		width: 622px;
+		height: 29px;
+		left: 80px;
+		top: 603.174px;
+		overflow: visible;
+	}
+	#Subtitle2_l {
+		filter: drop-shadow(0px 7px 24px rgba(0, 0, 0, 0.302));
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 623px;
+		white-space: nowrap;
+		line-height: 29px;
+		margin-top: -2.5px;
+		text-align: right;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.82px;
+	}
+	#Title-A_VIBE_YOU_CAN_TRUST__l {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 429;
+		height: 183;
+		left: 92.286px;
+		top: 344px;
+		overflow: visible;
+	}
+	#Obslive-logo1_l {
+		position: absolute;
+		width: 257px;
+		height: 285px;
+		left: 80.286px;
+		top: 18px;
+		overflow: visible;
+	}
+	#obslive-logo-ph_l {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 283;
+		height: 314;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#WELCOME_MAT_l {
+		position: absolute;
+		width: 246px;
+		height: 146px;
+		left: 551.129px;
+		top: 0px;
+		overflow: visible;
+	}
+	#welcome-mat_ma {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		width: 246;
+		height: 122;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#HAT_RICK_mb {
+		position: absolute;
+		width: 1546.258px;
+		height: 72px;
+		left: 186.871px;
+		top: 5.595px;
+		overflow: visible;
+	}
+	#R1-BOOKBUT1-CTA3_mc {
+		position: absolute;
+		width: 491.258px;
+		height: 64.595px;
+		left: 1055px;
+		top: 7.405px;
+		overflow: visible;
+	}
+	#SM0-BUTBACK_md {
+		fill: transparent;
+	}
+	.SM0-BUTBACK_md {
+		position: absolute;
+		overflow: visible;
+		width: 491.258px;
+		height: 64.595px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM0-TXT0-B_me {
+		left: 153.601px;
+		top: 15.712px;
+		position: absolute;
+		overflow: visible;
+		width: 125px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#SM0-TXT0-A_mf {
+		left: 143.775px;
+		top: 34.396px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -1.5px;
+		text-align: right;
+		font-family: Roboto-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#CALEND-ICON-BLACK_mg {
+		position: absolute;
+		width: 44px;
+		height: 45px;
+		left: 290.966px;
+		top: 7.954px;
+		display: none;
+		overflow: visible;
+	}
+	#Layer_44_mh {
+		fill: transparent;
+	}
+	.Layer_44_mh {
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 45px;
+		left: 0px;
+		top: 0px;
+	}
+	#Layer_45_mi {
+		fill: transparent;
+	}
+	.Layer_45_mi {
+		position: absolute;
+		overflow: visible;
+		width: 33px;
+		height: 21px;
+		left: 5px;
+		top: 20px;
+	}
+	#CALEND-ICON-WHITE_mj {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 291.966px;
+		top: 10.038px;
+		overflow: visible;
+	}
+	#Layer_44_mk {
+		position: absolute;
+		width: 43px;
+		height: 46px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_45_ml {
+		position: absolute;
+		width: 33px;
+		height: 23px;
+		left: 5px;
+		top: 20px;
+		overflow: visible;
+	}
+	#C1BUT-TBCTA2-MAIL_mm {
+		position: absolute;
+		width: 604px;
+		height: 61px;
+		left: 522px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_9_mn {
+		fill: transparent;
+	}
+	.Rectangle_9_mn {
+		position: absolute;
+		overflow: visible;
+		width: 604px;
+		height: 61px;
+		left: 0px;
+		top: 0px;
+	}
+	#n_obsessionlive24gmailcom_mo {
+		left: 129.177px;
+		top: 18.456px;
+		position: absolute;
+		overflow: visible;
+		width: 327px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(79,231,255,1);
+		letter-spacing: 0.4px;
+	}
+	#L1BUT-TBCTA1-CALL_mp {
+		position: absolute;
+		width: 498px;
+		height: 65px;
+		left: 0px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Rectangle_8_mq {
+		fill: transparent;
+	}
+	.Rectangle_8_mq {
+		position: absolute;
+		overflow: visible;
+		width: 498px;
+		height: 65px;
+		left: 0px;
+		top: 0px;
+	}
+	#Get_in_touch_076_727_9772_mr {
+		left: 136.5px;
+		top: 19px;
+		position: absolute;
+		overflow: visible;
+		width: 318px;
+		height: 27px;
+		line-height: 32px;
+		margin-top: -5px;
+		text-align: center;
+		font-family: CenturyGothic-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.22px;
+	}
+	#BOOKBAND-OVL-BUT3_ms {
+		position: absolute;
+		width: 540px;
+		height: 87px;
+		left: 1244px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_mt {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_mt {
+		position: absolute;
+		overflow: visible;
+		width: 540px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#BOOKBAND-OVL-BUT2_mu {
+		position: absolute;
+		width: 527px;
+		height: 87px;
+		left: 717px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_mv {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_mv {
+		position: absolute;
+		overflow: visible;
+		width: 527px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#BOOKBAND-OVL-BUT1_mw {
+		position: absolute;
+		width: 581px;
+		height: 87px;
+		left: 136px;
+		top: 0px;
+		overflow: visible;
+	}
+	#BOOKBAND-OVL-BUT3_mx {
+		fill: transparent;
+	}
+	.BOOKBAND-OVL-BUT3_mx {
+		position: absolute;
+		overflow: visible;
+		width: 581px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#SM_BENJBUTTON_BAR_my {
+		position: absolute;
+		width: 343.154px;
+		height: 465px;
+		left: 1249.411px;
+		top: 171.595px;
+		overflow: visible;
+	}
+	#SMBUT5-UTUBE_mz {
+		position: absolute;
+		width: 342px;
+		height: 93px;
+		left: 0.168px;
+		top: 372px;
+		overflow: visible;
+	}
+	#SM5-BUTBACK5_m {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 93px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM5-TXT-UTUBE_m {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-TXT-UTUBE_m {
+		overflow: visible;
+		position: absolute;
+		width: 103.781px;
+		height: 30.227px;
+		left: 141.517px;
+		top: 31.387px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM5-ICON5_m {
+		fill: rgba(255,255,255,1);
+	}
+	.SM5-ICON5_m {
+		overflow: visible;
+		position: absolute;
+		width: 36.689px;
+		height: 26.125px;
+		left: 89.172px;
+		top: 31.285px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT4-INSTAG_m {
+		position: absolute;
+		width: 342px;
+		height: 91px;
+		left: 0.168px;
+		top: 281px;
+		overflow: visible;
+	}
+	#SM4-BUTBACK4_m {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 91px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM4-TXT-INSTAG_m {
+		fill: rgba(255,255,255,1);
+	}
+	.SM4-TXT-INSTAG_m {
+		overflow: visible;
+		position: absolute;
+		width: 80.387px;
+		height: 30.227px;
+		left: 163.566px;
+		top: 33.544px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM4-ICON4_m {
+		position: absolute;
+		width: 29px;
+		height: 30px;
+		left: 94px;
+		top: 34px;
+		overflow: visible;
+	}
+	#SMBUT3-TWITTER_m {
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0.168px;
+		top: 190px;
+		overflow: visible;
+	}
+	#SM3-BUTBACK3_m {
+		opacity: 0.329;
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM3-TXT-TWITTER_m {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-TXT-TWITTER_m {
+		overflow: visible;
+		position: absolute;
+		width: 78.288px;
+		height: 30.09px;
+		left: 166.771px;
+		top: 32.514px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM3-ICON3_na {
+		fill: rgba(255,255,255,1);
+	}
+	.SM3-ICON3_na {
+		overflow: visible;
+		position: absolute;
+		width: 28.823px;
+		height: 23.51px;
+		left: 94.01px;
+		top: 34.245px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT2-WHATSAPP_nb {
+		position: absolute;
+		width: 343.154px;
+		height: 103.554px;
+		left: 0px;
+		top: 89.683px;
+		overflow: visible;
+	}
+	#SM2-BUTBACK2_nc {
+		opacity: 0.329;
+		position: absolute;
+		width: 343.154px;
+		height: 103.554px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM2-TXT-WHATSAPP_nd {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-TXT-WHATSAPP_nd {
+		overflow: visible;
+		position: absolute;
+		width: 76.893px;
+		height: 30.227px;
+		left: 167.236px;
+		top: 39.089px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM2-ICON2_ne {
+		fill: rgba(255,255,255,1);
+	}
+	.SM2-ICON2_ne {
+		overflow: visible;
+		position: absolute;
+		width: 31.445px;
+		height: 31.353px;
+		left: 92.176px;
+		top: 34.141px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SMBUT1-FB_nf {
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0.168px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM1-BUTBACK_ng {
+		opacity: 0.329;
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 342px;
+		height: 92px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SM1-ICON1_nh {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-ICON1_nh {
+		overflow: visible;
+		position: absolute;
+		width: 27.517px;
+		height: 27.432px;
+		left: 96.073px;
+		top: 32.847px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SM1-TXT-FB_ni {
+		fill: rgba(255,255,255,1);
+	}
+	.SM1-TXT-FB_ni {
+		overflow: visible;
+		position: absolute;
+		width: 82.493px;
+		height: 30.227px;
+		left: 166.049px;
+		top: 33.742px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
